@@ -28,7 +28,7 @@
 
 # 👋 Hey, I'm Irfan!
 
-### 💻 Frontend Developer | 🚀 Full-Stack Development Learner
+## 🧑‍💻 About Me
 
 I'm a developer from **Bangladesh** who enjoys building modern, responsive, and interactive web applications.
 
@@ -36,37 +36,13 @@ I'm currently focused on improving my **frontend development skills** while grad
 
 I enjoy learning new technologies, building real-world projects, solving problems, and turning ideas into functional web experiences.
 
----
-
-## 🧑‍💻 About Me
-
-```javascript
-const irfan = {
-    role: "Frontend Developer",
-    currentlyLearning: [
-        "React",
-        "TypeScript",
-        "Tailwind CSS",
-        "Full-Stack Development"
-    ],
-
-    interestedIn: [
-        "Web Development",
-        "UI/UX",
-        "Modern Technologies",
-        "AI/ML"
-    ],
-
-    currentlyBuilding: [
-        "DevStack",
-        "FitLog"
-    ],
-
-    mindset: "Learn → Build → Debug → Improve 🚀"
-};
-```
-
----
+🌱 Currently learning React, TypeScript & modern web development
+💻 Building responsive and interactive web applications
+🎨 Interested in UI/UX and clean interface design
+🧩 Enjoy working with reusable components
+🚀 Building projects to improve my development skills
+🤖 Interested in AI/ML and modern technologies
+📚 Always learning and experimenting with new technologies
 
 # ⚡ Tech Stack
 
@@ -195,28 +171,6 @@ The project gives me an opportunity to work with TypeScript and strengthen my fr
 ---
 
 # 🧠 My Development Journey
-
-```text
-HTML + CSS
-     │
-     ▼
-JavaScript
-     │
-     ▼
-React
-     │
-     ▼
-TypeScript
-     │
-     ▼
-Modern Frontend
-     │
-     ▼
-Full-Stack Development
-     │
-     ▼
-      🚀
-```
 
 I'm continuously improving by building projects instead of only learning theory.
 
