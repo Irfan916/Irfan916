@@ -71,48 +71,6 @@ I enjoy learning new technologies, building real-world projects, solving problem
 
 ---
 
-# 🚀 My Projects
-
-# 🚀 My Projects
-
-## 💻 DevStack
-
-**DevStack** is a developer-focused web application built while exploring modern frontend development.
-
-The project focuses on creating an interactive, responsive, and modern experience using a React-based technology stack.
-
-### 🧰 Built With
-
-`React` `TypeScript` `Tailwind CSS` `DaisyUI`
-
-### 🌐 Live Project
-
-<a href="https://dev-stack-01.vercel.app/">
-
-<img src="https://img.shields.io/badge/Live%20Project-DevStack-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</a>
-
----
-
-## 🏃 FitLog
-
-**FitLog** is a fitness-focused web application built as part of my journey toward developing practical, modern web applications.
-
-The project uses a modern Next.js stack with a responsive interface and TypeScript-based development.
-
-### 🧰 Built With
-
-`Next.js` `TypeScript` `Tailwind CSS`
-
-### 🌐 Live Project
-
-<a href="https://fit-log-roan-three.vercel.app/">
-
-<img src="https://img.shields.io/badge/Live%20Project-FitLog-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</a>
-
 
 # 🔥 Contribution Streak
 
