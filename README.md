@@ -8,7 +8,7 @@
 
 <a href="https://github.com/Irfan916">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+TypeScript+Developer+%E2%9A%9B%EF%B8%8F;Building+Modern+Web+Experiences+%F0%9F%9A%80;Learning+%E2%86%92+Building+%E2%86%92+Improving+%F0%9F%94%A5" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+TypeScript+%E2%9A%9B%EF%B8%8F;Building+Modern+Web+Experiences+%F0%9F%9A%80;Learning+%E2%86%92+Building+%E2%86%92+Improving+%F0%9F%94%A5" alt="Typing SVG"/>
 
 </a>
 
@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/GitHub-Irfan916-181717?style=for-the-badge&logo=github" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Irfan916&label=Profile%20Views&color=0EA5E9&style=for-the-badge" />
 
 </div>
 
@@ -112,19 +111,6 @@ The project gives me an opportunity to work with TypeScript and strengthen my fr
 
 </a>
 
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Irfan916&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan916&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 # 🔥 Contribution Streak
 
@@ -136,15 +122,6 @@ The project gives me an opportunity to work with TypeScript and strengthen my fr
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfan916&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
-
----
 
 # 🎯 What I'm Working On
 
