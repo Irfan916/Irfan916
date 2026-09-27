@@ -73,11 +73,13 @@ I enjoy learning new technologies, building real-world projects, solving problem
 
 # 🚀 My Projects
 
+# 🚀 My Projects
+
 ## 💻 DevStack
 
 **DevStack** is a developer-focused web application built while exploring modern frontend development.
 
-The project focuses on creating an interactive and responsive experience using a modern React-based stack.
+The project focuses on creating an interactive, responsive, and modern experience using a React-based technology stack.
 
 ### 🧰 Built With
 
@@ -87,7 +89,7 @@ The project focuses on creating an interactive and responsive experience using a
 
 <a href="https://dev-stack-01.vercel.app/">
 
-<img src="https://img.shields.io/badge/Live%20Demo-DevStack-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live%20Project-DevStack-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </a>
 
@@ -95,19 +97,19 @@ The project focuses on creating an interactive and responsive experience using a
 
 ## 🏃 FitLog
 
-**FitLog** is one of my current development projects, built as part of my journey toward creating practical web applications.
+**FitLog** is a fitness-focused web application built as part of my journey toward developing practical, modern web applications.
 
-The project gives me an opportunity to work with TypeScript and strengthen my frontend development skills.
+The project uses a modern Next.js stack with a responsive interface and TypeScript-based development.
 
 ### 🧰 Built With
 
-`TypeScript`
+`Next.js` `TypeScript` `Tailwind CSS`
 
-### 📂 Repository
+### 🌐 Live Project
 
-<a href="https://github.com/Irfan916">
+<a href="https://fit-log-roan-three.vercel.app/">
 
-<img src="https://img.shields.io/badge/View%20Projects-GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Live%20Project-FitLog-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </a>
 
