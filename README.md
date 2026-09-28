@@ -2,7 +2,11 @@
 
 <!-- HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=230&section=header&text=Irfan%20Karim&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Full-Stack%20Learner&descAlignY=58&descSize=18" width="100%"/>
+<img
+    src="./assets/banner.png"
+    alt="Irfanul Karim - Frontend Developer"
+    width="100%"
+  />
 
 <!-- TYPING ANIMATION -->
 
